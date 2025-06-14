@@ -3,28 +3,28 @@
     "nombre": "Elden Ring: Shadow of the Erdtree Edition (PS5)",
     "descripcion": "Rating: 0%",
     "precio": "S/379.90",
-    "imagen": "../imagenes/imagen2.png",
+    "imagen": "imagenes/imagen2.png",
     "url": "elden-ring.html"
   },
   {
     "nombre": "Resident Evil 3 (PS5)",
     "descripcion": "Remake que te regresará toda la nostalgia y el terror del clásico.",
     "precio": "S/179.90",
-    "imagen": "../imagenes/imagen3.png",
+    "imagen": "imagenes/imagen3.png",
     "url": "resident-evil-3.html"
   },
   {
     "nombre": "Crash Bandicoot 4: It's About Time (PS4)",
     "descripcion": "Rating: 0%",
     "precio": "S/179.90",
-    "imagen": "../imagenes/imagen4.png",
+    "imagen": "imagenes/imagen4.png",
     "url": "crash-bandicoot-4.html"
   },
   {
     "nombre": "Silent Hill 2 (PS5)",
     "descripcion": "Rating: 0%",
     "precio": "S/329.90",
-    "imagen": "../imagenes/imagen5.png",
+    "imagen": "imagenes/imagen5.png",
     "url": "silent-hill-2.html"
   }
 ]

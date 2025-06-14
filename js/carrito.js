@@ -14,7 +14,7 @@ const Carrito = () => {
   const [carrito, setCarrito] = useState([]);
 
   useEffect(() => {
-    fetch("../data/carrito.json")
+    fetch("data/carrito.json")
       .then(res => res.json())
       .then(data => setCarrito(data))
       .catch(() => {

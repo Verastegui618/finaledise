@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Encuentra al Gato</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <link rel="stylesheet" href="../css/juego.css" />
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+  <header class="bg-gray-800 p-4">
+    <a href="tienda.html" class="text-white flex items-center gap-2 font-bold">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25694.png" alt="Volver" width="25" />
+      Volver a la tienda
+    </a>
+  </header>
+
+  <main id="root" class="p-6 flex justify-center"></main>
+
+  <script type="application/json" id="juego-config">
+    {
+      "vidas": 5,
+      "tiempo": 10,
+      "puntosPorGato": 10
+    }
+  </script>
+
+  <script type="text/babel" src="../js/juego.js"></script>
+</body>
+</html>

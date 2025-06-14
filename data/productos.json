@@ -2,14 +2,14 @@
   {
     "titulo": "Elden Ring",
     "descripcion": "Elden Ring: Shadow of the Erdtree Edition (PS5) - S/379.90",
-    "imagen": "../imagenes/imagen2.png",
+    "imagen": "imagenes/imagen2.png",
     "categoria": "aventura",
     "link": "elden-ring.html"
   },
   {
     "titulo": "Resident Evil 3",
     "descripcion": "Resident Evil 3 (PS5) - S/179.90",
-    "imagen": "../imagenes/imagen3.png",
+    "imagen": "imagenes/imagen3.png",
     "categoria": "terror",
     "link": "resident-evil-3.html"
   },
@@ -23,7 +23,7 @@
   {
     "titulo": "Silent Hill 2",
     "descripcion": "Silent Hill 2 (PS5) - S/329.90",
-    "imagen": "../imagenes/imagen5.png",
+    "imagen": "imagenes/imagen5.png",
     "categoria": "terror",
     "link": "silent-hill-2.html"
   }

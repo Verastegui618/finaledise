@@ -1,0 +1,18 @@
+.logo {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  width: 50px;
+}
+
+.glow-box {
+  border-radius: 12px;
+  background: linear-gradient(#1c1c1c, #292929);
+  box-shadow: 0 0 20px #f87171, 0 0 40px #ef4444, 0 0 60px #b91c1c;
+  transition: transform 0.3s ease;
+}
+
+.glow-box:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 30px #fecaca, 0 0 60px #f87171;
+}

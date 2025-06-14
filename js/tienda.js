@@ -38,7 +38,7 @@ const App = () => {
   const [productos, setProductos] = useState([]);
 
   useEffect(() => {
-    fetch("../data/tienda.json")
+    fetch("data/tienda.json")
       .then(res => res.json())
       .then(data => setProductos(data));
   }, []);

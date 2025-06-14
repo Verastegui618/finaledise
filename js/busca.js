@@ -19,7 +19,7 @@ const Buscador = () => {
   const [filtro, setFiltro] = useState("");
 
   useEffect(() => {
-    fetch("../data/busca.json")
+    fetch("data/busca.json")
       .then((res) => res.json())
       .then((data) => setProductos(data));
   }, []);
@@ -60,7 +60,7 @@ const Buscador = () => {
       </main>
 
       {/* Logo */}
-      <img src="../imagenes/imagen6.png" alt="Logo FIA GAMER" className="block mx-auto my-10 max-w-[150px]" />
+      <img src="imagenes/imagen6.png" alt="Logo FIA GAMER" className="block mx-auto my-10 max-w-[150px]" />
 
       {/* Footer */}
       <footer className="bg-red-800 text-black p-6 text-sm">

@@ -1,0 +1,30 @@
+[
+  {
+    "titulo": "Elden Ring: Shadow of the Erdtree Edition (PS5)",
+    "descripcion": "Disponible • Rating: 0% • S/379.90",
+    "imagen": "../imagenes/imagen2.png",
+    "link": "elden-ring.html",
+    "categoria": "aventura"
+  },
+  {
+    "titulo": "Resident Evil 3 (PS5)",
+    "descripcion": "Remake que te regresará toda la nostalgia y el terror del clásico. • S/179.90",
+    "imagen": "../imagenes/imagen3.png",
+    "link": "resident-evil-3.html",
+    "categoria": "terror"
+  },
+  {
+    "titulo": "Silent Hill 2 (PS5)",
+    "descripcion": "Disponible • Rating: 0% • S/329.90",
+    "imagen": "../imagenes/imagen5.png",
+    "link": "silent-hill-2.html",
+    "categoria": "terror"
+  },
+  {
+    "titulo": "Crash Bandicoot 4: It’s About Time (PS5)",
+    "descripcion": "¡Diversión asegurada! • S/199.90",
+    "imagen": "../imagenes/imagen4.png",
+    "link": "crash-bandicoot-4.html",
+    "categoria": "diversion"
+  }
+]

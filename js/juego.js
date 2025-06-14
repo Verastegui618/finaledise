@@ -72,13 +72,13 @@ const Juego = () => {
       <h1 className="text-3xl font-bold">🐱 ¡Encuentra al Gato! 🏛️</h1>
       <div id="game-container">
         <img
-          src="../imagenes/coliseo.png"
+          src="imagenes/coliseo.png"
           alt="Coliseo"
           className="absolute top-0 left-0 w-full h-full object-cover z-0"
         />
         {mostrarGato && (
           <img
-            src="../imagenes/gato.png"
+            src="imagenes/gato.png"
             alt="Gato"
             id="gato"
             onClick={clickGato}

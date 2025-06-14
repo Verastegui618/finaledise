@@ -2,8 +2,8 @@
   {
     "titulo": "Elden Ring: Shadow of the Erdtree Edition (PS5)",
     "descripcion": "Disponible • Rating: 0% • S/379.90",
-    "imagen": "imagenes/imagen2.png",
-    "link": "elden-ring.html",
+    "imagen": "./imagenes/imagen2.png",
+    "link": "./elden-ring.html",
     "categoria": "aventura"
   },
   {
